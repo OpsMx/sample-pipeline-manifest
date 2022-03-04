@@ -1,0 +1,6 @@
+{
+  "artifactAccount": "<GitHub-Artifactname in Halayard>",
+  "reference": "https://api.github.com/repos/yugaa22/hello-script/contents/hello.sh",
+  "type": "github/file",
+  "version": "master"
+}
