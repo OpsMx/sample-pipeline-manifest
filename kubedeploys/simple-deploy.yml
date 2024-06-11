@@ -4,7 +4,7 @@ metadata:
   name: simple-deploy
 spec:
   replicas: 1
-  revisionHistoryLimit: 1
+  revisionHistoryLimit: 2
   selector:
     matchLabels:
       app: simple-app1
